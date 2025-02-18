@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burma Meme Coin (BMC)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #fdf2f8;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff4081;
+        }
+        p {
+            font-size: 18px;
+        }
+        .btn {
+            background-color: #ff4081;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .btn:hover {
+            background-color: #e91e63;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Burma Meme Coin (BMC) 🚀</h1>
+        <p>The ultimate meme coin for fun, vibes, and community-driven success!</p>
+        <p>Burma Coin is a revolutionary digital asset designed to bring humor, culture, and decentralized finance together. Built on the Solana blockchain, it offers fast transactions, low fees, and a thriving community.</p>
+        
+        <h2>Tokenomics</h2>
+        <p><strong>Total Supply:</strong> 1,000,000,000 BMC (1B)</p>
+        <p><strong>Fair Launch:</strong> No Presale, No VCs, 100% Community Owned!</p>
+        
+        <h2>Roadmap (Q4 2025)</h2>
+        <ul>
+            <li>✅ BMC Launch 🚀</li>
+            <li>✅ Listed on Decentralized Exchanges 📈</li>
+            <li>✅ Community Expansion 🎉</li>
+            <li>🔜 Major Exchange Listing at the end of Q4 2025 📅</li>
+        </ul>
+        
+        <h2>Our Team & Future Plans</h2>
+        <p>Our team is working hard to make Burma Meme Coin a success! We are continuously developing new features and expanding our reach.</p>
+        <p>Stay tuned for exciting updates on Twitter, Telegram, and our upcoming airdrop giveaway! 🚀🎁</p>
+        
+        <h2>How to Buy BMC?</h2>
+        <p>1️⃣ Get a Solana Wallet (Phantom, Solflare)</p>
+        <p>2️⃣ Load your wallet with SOL</p>
+        <p>3️⃣ Swap SOL for BMC on a DEX</p>
+        <p>4️⃣ Hold and enjoy the ride! 🚀</p>
+        
+        <h2>Join Our Community</h2>
+        <a href="https://twitter.com/yourusername" class="btn">Twitter</a>
+        <a href="https://t.me/yourchannel" class="btn">Telegram</a>
+        <a href="https://discord.com/invite/yourserver" class="btn">Discord</a>
+    </div>
+</body>
+</html>
